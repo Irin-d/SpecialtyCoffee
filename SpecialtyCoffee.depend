@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1605974958 source:d:\projects\steppro\repo\specialtycoffee\main.cpp
+	<iostream>
+	<fstream>
+	<locale.h>
+
